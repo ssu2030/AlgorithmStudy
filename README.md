@@ -7,11 +7,11 @@
 #### 1. Study 내용
 
 - [프로그래머스 고득점 kit](https://programmers.co.kr/learn/challenges) 문제
-  - [해시](https://programmers.co.kr/learn/courses/30/parts/12077)
-  - [스택/큐](https://programmers.co.kr/learn/courses/30/parts/12081)
-  - [힙](https://programmers.co.kr/learn/courses/30/parts/12117)
-  - [정렬](https://programmers.co.kr/learn/courses/30/parts/12198)
-  - [완전 탐색](https://programmers.co.kr/learn/courses/30/parts/12230)
+  - [해시](https://programmers.co.kr/learn/courses/30/parts/12077) :ballot_box_with_check:
+  - [스택/큐](https://programmers.co.kr/learn/courses/30/parts/12081) :ballot_box_with_check:
+  - [힙](https://programmers.co.kr/learn/courses/30/parts/12117) :ballot_box_with_check:
+  - [정렬](https://programmers.co.kr/learn/courses/30/parts/12198) :ballot_box_with_check:
+  - [완전 탐색](https://programmers.co.kr/learn/courses/30/parts/12230) :ballot_box_with_check:
   - [탐욕법](https://programmers.co.kr/learn/courses/30/parts/12244)
   - [동적 계획법](https://programmers.co.kr/learn/courses/30/parts/12263)
   - [깊이/너비 우선 탐색](https://programmers.co.kr/learn/courses/30/parts/12421)
